@@ -4,8 +4,8 @@ public class EmpGroups {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		String[] empNames = new String[2];
-		int[] empIds = new int[2];
+		String[] empNames = new String[3];
+		int[] empIds = new int[3];
 		
 		Employees employexerox = new Employees();
 		
