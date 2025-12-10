@@ -18,6 +18,8 @@ public class EmpGroups {
 		empIds[2] =employexerox.empId3;
 		//Employee Name: Bharath, Employee ID: 1234
 		System.out.println("Employee Name:"+ empNames[0] +", Employee ID:" + empIds[0]);
+		System.out.println("Employee Name:"+ empNames[1] +", Employee ID:" + empIds[1]);
+		System.out.println("Employee Name:"+ empNames[2] +", Employee ID:" + empIds[2]);
 		
 		
 		
